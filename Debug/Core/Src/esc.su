@@ -1,0 +1,7 @@
+../Core/Src/esc.c:14:6:start_esc	8	static
+../Core/Src/esc.c:21:6:terminate_esc	8	static
+../Core/Src/esc.c:28:6:update_throttle	16	static
+../Core/Src/esc.c:35:6:skip_arming_mode	8	static
+../Core/Src/esc.c:44:6:do_calibration	8	static
+../Core/Src/esc.c:57:6:update_output	8	static
+../Core/Src/esc.c:66:6:update_esc_vector	104	static

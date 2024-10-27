@@ -1,0 +1,12 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1792:26:LL_USART_IsActiveFlag_RXNE	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1814:26:LL_USART_IsActiveFlag_TXE	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2035:22:LL_USART_EnableIT_RXNE	40	static,ignoring_inline_asm
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2057:22:LL_USART_EnableIT_TXE	40	static,ignoring_inline_asm
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2153:22:LL_USART_DisableIT_TXE	40	static,ignoring_inline_asm
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2403:25:LL_USART_ReceiveData8	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2426:22:LL_USART_TransmitData8	16	static
+../Core/Src/uart_utils.c:22:6:init_uart	8	static
+../Core/Src/uart_utils.c:27:6:uart_transmit_it	24	static
+../Core/Src/uart_utils.c:37:6:handle_uart_tx_it	24	static
+../Core/Src/uart_utils.c:47:6:handle_uart1_rx_it	16	static
+../Core/Src/uart_utils.c:54:6:handle_uart3_rx_it	16	static

@@ -1,0 +1,4 @@
+../Core/Src/timer.c:11:6:start_esc_update_tim	8	static
+../Core/Src/timer.c:15:6:start_sensor_update_tim	8	static
+../Core/Src/timer.c:19:6:start_debug_values_tx_tim	8	static
+../Core/Src/timer.c:26:6:HAL_TIM_PeriodElapsedCallback	16	static
